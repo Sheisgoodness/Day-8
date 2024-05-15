@@ -23,9 +23,9 @@ html {
 
 /* Root colors */
 :root {
-    --primary-color: #04d9ff; 
-    --background-color: #111111; 
-    --text-color: #FFFFFF; 
+    --primary-color: #04d9ff; /* Neon Green */
+    --background-color: #111111; /* Black */
+    --text-color: #FFFFFF; /* White */
 }
 
 
