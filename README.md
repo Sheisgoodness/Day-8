@@ -1,7 +1,7 @@
 # Day-8
 # HeadsetHub Website
 
-This is the HeadsetHub website project. It showcases the latest headsets and provides information about the company.
+This is a HeadsetHub Landing page. It shows the latest headsets and provides information about the company.
 
 ## Features
 
